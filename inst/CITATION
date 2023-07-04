@@ -12,8 +12,8 @@ bibentry( bibtype = "Manual",
                      person(given = "Alexandre B.",
                             family = "Simas",
                             email = "alexandre.simas@kaust.edu.sa")),
-          year = "2022",
-          note = "R package version 0.1.0",
+          year = "2023",
+          note = "R package version 1.1.2",
           url = "https://CRAN.R-project.org/package=MetricGraph",
 )
 
@@ -28,9 +28,10 @@ bibentry(bibtype = "Article",
                     person("Jonas", "Wallin",
                            email = "jonas.wallin81@gmail.com",
                            role = "aut")),
-         year = "2022",
-         journal = "arXiv preprint arXiv:2205.06163",
-         doi = "10.48550/arXiv.2205.06163"
+         year = "2023",
+         journal = "Bernoulli",
+         doi = "10.48550/arXiv.2205.06163",
+         note ="(in press)"
 )
 
 bibentry(bibtype = "Article",
