@@ -1,7 +1,7 @@
 Package: MetricGraph
 Type: Package
 Title: Random Fields on Metric Graphs
-Version: 1.4.1
+Version: 1.5.0
 Authors@R: c(
     person("David", "Bolin", email = "davidbolin@gmail.com", role = c("cre", "aut")),
     person("Alexandre", "Simas", email = "alexandre.impa@gmail.com", role = "aut"),
@@ -32,9 +32,9 @@ RoxygenNote: 7.3.2
 VignetteBuilder: knitr
 NeedsCompilation: yes
 LinkingTo: Rcpp, RcppEigen
-Packaged: 2025-03-02 19:46:21 UTC; debusta
+Packaged: 2025-05-19 18:15:12 UTC; debusta
 Author: David Bolin [cre, aut],
   Alexandre Simas [aut],
   Jonas Wallin [aut]
 Repository: CRAN
-Date/Publication: 2025-03-02 21:50:02 UTC
+Date/Publication: 2025-05-19 19:10:16 UTC
